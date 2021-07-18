@@ -475,6 +475,18 @@ footer {
     font-size: 11px;
     color: #CBD0D3;
 }
+.input-email::-webkit-input-placeholder {
+    color: #CBD0D3;
+}
+.input-email::-moz-placeholder {
+    color: #CBD0D3;
+}
+.input-email:-ms-input-placeholder {
+    color: #CBD0D3;
+}
+.input-email::-ms-input-placeholder {
+    color: #CBD0D3;
+}
 .input-email::placeholder {
     color: #CBD0D3;
 }

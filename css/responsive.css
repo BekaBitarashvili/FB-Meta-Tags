@@ -1,0 +1,266 @@
+@media (max-width: 1000px) {
+	.fa-bars {
+		position: absolute;
+	    width: 25.5px;
+	    height: 25.5px;
+	    left: 40%;
+	    top: 19px;
+	    font-size: 35px;
+	    color: black;;
+	}
+	.home,.discovery,.photos,.contact,.woman1  {
+		display: none;
+	}
+}
+@media (max-width: 1000px) {
+    .picture-div {
+        width: 380px;
+        height: 300px;
+        position: absolute;
+    }
+}
+@media (max-width: 1000px) {
+    .world {
+        left: 110px;
+        top: 50px;
+        position: absolute;
+        width: 161px;
+        height: 18px;
+        font-size: 22px;
+    }
+}
+@media (max-width: 1000px) {
+    .line {
+        position: absolute;
+        width: 22px;
+        height: 2px;
+        left: 185px;
+        top: 90px;
+    }
+}
+@media (max-width: 1000px) {
+    .p1 {
+        left: 90px;
+        top: 110px;
+        position: absolute;
+        width: 200px;
+        height: 22px;
+        font-size: 10px;
+    }
+}
+@media (max-width: 1000px) {
+    .man1 {
+        left: 180px;
+        top: 170px;
+        width: 25px;
+        height: 25px;
+        position: absolute;
+    }
+}
+@media (max-width: 1000px) {
+    .search-div {
+        width: 380px;
+        height: 300px;
+        position: absolute;
+        left: 140px;
+        top: 460px;
+    }
+}
+@media (max-width: 1000px) {
+    .label-date {
+        left: 35px;
+        top: 40px;
+        position: absolute;
+        width:  161px;
+        height: 8px;
+        font-size: 8px;
+    }
+}
+@media (max-width: 1000px) {
+    .input-date {
+        position: absolute;
+        width: 160px;
+        height: 20px;
+        left: 35px;
+        top: 60px;
+    }
+}
+@media (max-width: 1000px) {
+    .label-text {
+        left: 35px;
+        top: 100px;
+        position: absolute;
+        width:  161px;
+        height: 8px;
+        font-size: 8px;
+    }
+}
+@media (max-width: 1000px) {
+    .input-text {
+        position: absolute;
+        width: 160px;
+        height: 20px;
+        left: 35px;
+        top: 120px;
+    }
+}
+@media (max-width: 1000px) {
+    .button {
+        position: absolute;
+        width: 80px;
+        height: 20px;
+        left: 35px;
+        top: 200px;
+    }
+}
+@media (max-width: 1000px) {
+    .text-div {
+        position: absolute;
+        width: 100%;
+        height: 213px;
+        left: 140px;
+        top: 800px;;
+    }
+}
+@media (max-width: 1000px) {
+    .man2 {
+        left: 150px;
+        top: 60px;
+        width: 25px;
+        height: 25px;
+        position: absolute;
+    }
+}
+@media (max-width: 1000px) {
+    .p2 {
+        left: 100px;
+        top: 100px;
+        position: absolute;
+        width: 161px;
+        height: 31px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 1000px) {
+    .p3 {
+        left: 100px;
+        top: 200px;
+        position: absolute;
+        width: 250px;
+        height: 31px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 1000px) {
+    .p4 {
+        left: 100px;
+        top: 520px;
+        position: absolute;
+        width: 250px;
+        height: 31px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 1000px) {
+    .time {
+        left: 100px;
+        top: 740px;
+        position: absolute;
+        width: 12px;
+        height: 12px;
+    }
+}
+@media (max-width: 1000px) {
+    .p5 {
+        left: 120px;
+        top: 740px;
+        position: absolute;
+        width: 250px;
+        height: 31px;
+        font-size: 14px;
+    }
+}
+
+
+
+@media (max-width: 1000px) {
+    footer {
+        top: 1700px;
+    }
+}
+@media (max-width: 1000px) {
+    .footer-logo,.footer-home,.footer-discovery,.footer-photos,.footer-contact,.footer-about,.footer-help,.footer-terms,.footer-guidlines,.footer-testimonials,.footer-advertise,.footer-integrations,.footer-careers {
+        font-size: 9px;
+    }
+}
+@media (max-width: 1000px) {
+    .footer-logo {
+        top: 50px;
+        left: 50px;
+    }
+}
+@media (max-width: 1000px) {
+    .footer-home,.footer-discovery,.footer-photos,.footer-contact {
+        left: 100px;
+    }
+}
+@media (max-width: 1000px) {
+    .footer-about,.footer-help,.footer-terms,.footer-guidlines {
+        left: 150px;
+    }
+}
+@media (max-width: 1000px) {
+    .footer-testimonials,.footer-advertise,.footer-integrations,.footer-careers {
+        left: 200px;
+    }
+}
+@media (max-width: 1000px) {
+    .input-email {
+        position: absolute;
+        width: 160px;
+        height: 20px;
+        left: 300px;
+        top: 50px;
+    }
+}
+@media (max-width: 1000px) {
+    .label-email {
+        position: absolute;
+        width: 170px;
+        height: 20px;
+        left: 300px;
+        top: 80px;
+    }
+}
+@media (max-width: 1000px) {
+    .fa-instagram {
+        position: absolute;
+        width: 170px;
+        height: 20px;
+        left: 500px;
+    }
+}
+@media (max-width: 1000px) {
+    .fa-facebook-f {
+        position: absolute;
+        width: 170px;
+        height: 20px;
+        left: 550px;
+    }
+}
+@media (max-width: 1000px) {
+    .fa-twitter {
+        position: absolute;
+        width: 170px;
+        height: 20px;
+        left: 600px;
+    }
+}
+@media (max-width: 1000px) {
+    .fa-globe-americas {
+        position: absolute;
+        width: 170px;
+        height: 20px;
+        left: 650px;
+    }
+}
